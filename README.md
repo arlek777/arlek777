@@ -1,10 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+welcome+to+my+profile+page.)](https://git.io/typing-svg)
 
-- 👋 Hi, I’m Iaroslav Nikishyn, Senior Software Enginner with high expertice in C# .NET, JavaScript, Angular and React. 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<hr/>
+
+- I’m a Senior Software Engineer with over 10 years of using C# .NET, JavaScript, Angular, and React in the enterprise area.
+- Here you can find my pet projects and ideas that I am implementing into life. 
+- 📫 My LinkedIn - https://www.linkedin.com/in/iniki/
 
 <!---
 arlek777/arlek777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

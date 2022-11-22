@@ -3,6 +3,7 @@
 <hr/>
 
 - I’m a Senior Software Engineer at Deloitte with over 10 years of using C# .NET, JavaScript, Angular, and React in the enterprise area.
+- I am passionate about programming, taking photos with my favorite Fujifilm and building Lego. 
 - Here you can find my pet projects and ideas that I am implementing into life. 
 - 📫 Feel free to contact me at LinkedIn - https://www.linkedin.com/in/iniki/.
 - My Stackoverflow - https://stackoverflow.com/users/3710672/iaroslav.

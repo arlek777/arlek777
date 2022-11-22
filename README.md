@@ -6,6 +6,10 @@
 - Here you can find my pet projects and ideas that I am implementing into life. 
 - 📫 Feel free to contact me at LinkedIn - https://www.linkedin.com/in/iniki/.
 
+<hr/>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=arlek777)](https://git.io/streak-stats)
+
 <!---
 arlek777/arlek777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

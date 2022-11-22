@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello, welcome to my profile page)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+,+welcome+to+my+profile+page.)](https://git.io/typing-svg)
 
 - 👋 Hi, I’m Iaroslav Nikishyn, Senior Software Enginner with high expertice in C# .NET, JavaScript, Angular and React. 
 - 👀 I’m interested in ...

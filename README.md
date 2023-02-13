@@ -3,7 +3,7 @@
 <hr/>
 
 - I am an expert with 10 years of extensive experience in software engineering and designing enterprise systems in full-stack and backend roles. 
-- My primarly technologies: C# .NET, ASP.NET Core, JavaScript, React, Angular, MS SQL, Microsoft Azure.
+- My primary stack: C# .NET, ASP.NET Core, JavaScript, React, Angular, MS SQL, Microsoft Azure.
 - I have designed distributed, highly loaded ETL system that serves 100k requests per second. 
 - I am passionate about programming, taking photos with my favorite Fujifilm photocamera and building Lego. 
 - Here you can find my pet projects and ideas that I am implementing into life. 
